@@ -34,7 +34,7 @@ homepage = "https://llamaindex.ai"
 keywords = ["LLM", "NLP", "RAG", "data", "devtools", "index", "retrieval"]
 license = "MIT"
 maintainers = [
-    "Andrei Fajardo <andrei@runllama.ai>",
+    "Andrei Fajardo <andrei@runllama.ai>   ",
     "Haotian Zhang <ht@runllama.ai>",
     "Jerry Liu <jerry@llamaindex.ai>",
     "Logan Markewich <logan@llamaindex.ai>",
